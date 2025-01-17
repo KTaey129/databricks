@@ -1,2 +1,2 @@
-# databrcks
+# databricks
 to study Databricks
